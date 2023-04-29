@@ -126,6 +126,12 @@ body {
   letter-spacing: 0.02em;
   color: var(--primary-text-color-theme-dark);
 }
+.our-jobs {
+  background-color: var(--secondary-text-color-theme-light);
+}
+.jobs-list-item {
+  background-color: var(--primary-text-color-theme-light);
+}
 .secondary-header {
   font-family: var(--main-font-family);
   font-weight: 700;
