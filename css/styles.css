@@ -32,7 +32,7 @@ body {
   font-family: var(--secondary-font-family-family);
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.67;
+  line-height: 1.17;
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -42,7 +42,7 @@ body {
   font-family: var(--secondary-font-family-family);
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.67;
+  line-height: 1.17;
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -78,6 +78,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--primary-text-color-theme-dark);
+}
+.adress {
+  font-style: normal;
 }
 .adress-link:hover,
 .adress-link:focus {
