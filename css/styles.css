@@ -85,6 +85,9 @@ body {
 .adress-link:focus {
   color: var(--accent-color);
 }
+.hero {
+  background-color: var(--secondary-text-color-theme-dark);
+}
 .hero-header {
   font-family: var(--main-font-family);
   font-weight: 700;
