@@ -70,8 +70,7 @@ body {
 .menu-link:focus {
   color: var(--accent-color);
 }
-.contact-mail,
-.contact-tel {
+.adress-link {
   font-family: var(--main-font-family);
   font-weight: 400;
   font-size: 16px;
