@@ -126,12 +126,6 @@ body {
   letter-spacing: 0.02em;
   color: var(--primary-text-color-theme-dark);
 }
-.our-jobs {
-  background-color: var(--secondary-text-color-theme-light);
-}
-.jobs-list-item {
-  background-color: var(--primary-text-color-theme-light);
-}
 .secondary-header {
   font-family: var(--main-font-family);
   font-weight: 700;
@@ -142,6 +136,9 @@ body {
   text-transform: capitalize;
   color: var(--secondary-text-color-theme-dark);
 }
+.team {
+  background-color: var(--secondary-text-color-theme-light);
+}
 .team-list-header {
   font-family: var(--main-font-family);
   font-weight: 500;
@@ -150,6 +147,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--secondary-text-color-theme-dark);
+  background-color: var(--primary-text-color-theme-light);
 }
 .team-position {
   font-family: var(--main-font-family);
@@ -158,6 +156,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--primary-text-color-theme-dark);
+  background-color: var(--primary-text-color-theme-light);
 }
 .footer-text {
   font-family: var(--main-font-family);
